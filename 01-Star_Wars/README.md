@@ -8,10 +8,8 @@ The information in this report was extracted from [The Numbers](https://www.the-
 
 It is worth remembering that none of the information on this dashboard is private or confidential.
 
-Now, let me show you what this dashboard looks like and also the elements that were used in its construction. 
-
-The panel was built using a data segmenter, which works as the report filter (1), we have some cards, which present data on production costs, profits and revenue (2), we have two tables that present the list of films and also the movie crawl (3) and we have a bar graph that compares the values of Production Cost and Profits per movie (4).
+The panel was built using a data segmenter, which works as the report filter (1), we have some cards, which present data on production costs, profits and revenue (2), we have two tables that present the list of films and also the movie crawl (3) and we have a bar chart that compares the values of Production Cost and Profits per movie (4).
 
 <img src="Prints/Print1.png" alt="Star Wars print 1" width="1024"/>
 
-<img src="Prints/Print2.png" alt="Star Wars print 1" width="1024"/>
+<img src="Prints/Print2.png" alt="Star Wars print 2" width="1024"/>
