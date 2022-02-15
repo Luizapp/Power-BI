@@ -8,6 +8,6 @@ It is worth remembering that none of the information on this dashboard is privat
 
 The panel was built using some cards, which present data on production costs, profits and revenue (1) and a line and bar chart that compares the values of Budget, Revenue and Profits per movie (2).
 
-<img src="Prints/Print1.png" alt="Car Theft Print 1" width="1024"/><img src="Prints/Print2.png" alt="Car Theft Print 2" width="1024"/>
+<img src="Prints/Print1.png" alt="Car Theft Print 1" width="512"/><img src="Prints/Print2.png" alt="Car Theft Print 2" width="512"/>
 
 <img src="Prints/Print3.png" alt="Car Theft Print 3" width="1024"/><img src="Prints/Print4.png" alt="Car Theft Print 4" width="1024"/>
