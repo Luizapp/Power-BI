@@ -1,6 +1,6 @@
 # STAR WARS
 
-<img src="01-Star_Wars/Prints/1.png" alt="Star Wars print 1" width="1024"/>
+<img src="Prints/1.png" alt="Star Wars print 1" width="1024"/>
 
 This dashboard based on the Star Wars movies was created to show a comparison between the USD values of Production Costs, Total Revenue and Total Profit involving each of the 9 movies in the series.
 
