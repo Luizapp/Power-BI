@@ -12,6 +12,6 @@ Now, let me show you what this dashboard looks like and also the elements that w
 
 The panel was built using a data segmenter, which works as the report filter (1), we have some cards, which present data on production costs, profits and revenue (2), we have two tables that present the list of films and also the movie crawl (3) and we have a bar graph that compares the values of Production Cost and Profits per movie (4).
 
-<img src="Prints/1.png" alt="Star Wars print 1" width="1024"/>
+<img src="Prints/Print1.png" alt="Star Wars print 1" width="1024"/>
 
-<img src="Prints/2.png" alt="Star Wars print 1" width="1024"/>
+<img src="Prints/Print2.png" alt="Star Wars print 1" width="1024"/>
