@@ -1,13 +1,17 @@
 # CAR THEFT
 
-This dashboard based on the Harry Potter movies was created to show a comparison between the values of Production Budget, Total Revenue and Total Profit, all in USD, involving each of the 8 movies in the series and also 2 movies from the Fantastic Beasts series (up to 2018).
+This dashboard was created based on vehicle theft data in the state of São Paulo and its main goal is to show how this type of data can be analyzed.
 
-The information in this report was extracted from [The Numbers](https://www.the-numbers.com/movies/franchise/Harry-Potter#tab=summary) website, this website is specialized in providing this type of information about the Movie Business.
+The information in this report was extracted from the [Transparency Portal of the Public Security Secretariat](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx), this portal is publicly accessible and available to all who want to access your information.
 
 It is worth remembering that none of the information on this dashboard is private or confidential.
 
-The panel was built using some cards, which present data on production costs, profits and revenue (1) and a line and bar chart that compares the values of Budget, Revenue and Profits per movie (2).
+The dashboard was built with two pages. On the Data page, we have a data slicer that serves as a filter for the report and it's presented on both pages (1), we have buttons to be able to navigate between the two pages (2), we have a stacked column chart which makes a comparison between the periods in which thefts were registered segmented by year (3) and we have a donut chart that presents the percentage of thefts registered by city (4) and on the Map page, we have a map that presents markers colored according to the period in which the theft was registered and which represents the exact location where it occurred.
 
-<img src="Prints/Print1.png" alt="Car Theft Print 1" width="512"/><img src="Prints/Print2.png" alt="Car Theft Print 2" width="512"/>
+<img src="Prints/Print1.png" alt="Car Theft Print 1" width="1024"/>
 
-<img src="Prints/Print3.png" alt="Car Theft Print 3" width="1024"/><img src="Prints/Print4.png" alt="Car Theft Print 4" width="1024"/>
+<img src="Prints/Print2.png" alt="Car Theft Print 2" width="1024"/>
+
+<img src="Prints/Print3.png" alt="Car Theft Print 3" width="1024"/>
+
+<img src="Prints/Print4.png" alt="Car Theft Print 4" width="1024"/>
