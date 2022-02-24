@@ -17,8 +17,8 @@ On the Decomposition Tree page we have a decomposition tree graph that breaks do
 
 <img src="Prints/Print3.png" alt="AI Visuals 3" width="1024"/>
 
-<img src="Prints/Print3.png" alt="AI Visuals 4" width="1024"/>
+<img src="Prints/Print4.png" alt="AI Visuals 4" width="1024"/>
 
-<img src="Prints/Print3.png" alt="AI Visuals 5" width="1024"/>
+<img src="Prints/Print5.png" alt="AI Visuals 5" width="1024"/>
 
-<img src="Prints/Print3.png" alt="AI Visuals 6" width="1024"/>
+<img src="Prints/Print6.png" alt="AI Visuals 6" width="1024"/>
