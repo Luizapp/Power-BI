@@ -9,3 +9,5 @@ The dashboard was built with a data slicer that serves as a filter for the repor
 <img src="Prints/Print1.png" alt="Trips 1" width="1024"/>
 
 <img src="Prints/Print2.png" alt="Trips 2" width="1024"/>
+
+<img src="Prints/Print3.png" alt="Trips 3" width="1024"/>
