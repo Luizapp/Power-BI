@@ -1,5 +1,9 @@
-# Visual Templates
+# Heat Map
 
-This folder contains a series of Power BI files that are based on different visuals that can be imported into the system via the Microsoft Marketplace. 
+Heat maps are a type of visualization to show data density on a map. 
 
-Each of these files was developed by the developers of each visual available for import. They serve as a guide and representation of the capabilities of each of these visuals.
+They are particularly helpful when you have a lot of (e.g., tens of thousands of) data points on the map and are mainly interested in their overall distribution. 
+
+Technically, in a heatmap, data points are aggregated locally and mapped to colors (either gradient or quantile), so that we can make better sense of the density of the data from the colors while still being able to see and use the map. 
+
+For more information, please visit [Power BI Heatmap](https://weiweicui.github.io/PowerBI-Heatmap)
