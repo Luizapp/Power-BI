@@ -7,9 +7,3 @@ Here we have Dashboards on movie series, such as Star Wars and Harry Potter, ana
 Each of these reports was developed with the aim of presenting a data analysis consistent with the type of information to which it refers, as well as the use of the most appropriate graphic visuals. Among them, we have different types of graphs, tables, maps, cards, KPI's and so on.
 
 I hope that this repository can serve not only as a presentation about my work and my skills, but also, it can serve as support material for those who want to learn more about the Power BI tool and also about data analysis.
-
-# Visual Templates
-
-This folder contains a series of Power BI files that are based on different visuals that can be imported into the system via the Microsoft Marketplace. 
-
-Each of these files was developed by the developers of each visual available for import. They serve as a guide and representation of the capabilities of each of these visuals.
